@@ -5,8 +5,6 @@ import HomePage from './pages/homepage/homepage.component';
 import ShopPage from './pages/shop/shop.component';
 import SignInAndSignOut from './pages/sign-in-sign-up/sign-in-sign-up.component';
 import Header from './components/header/header.component';
-import { auth } from './firebase/firebase.utils';
-import reactDom from 'react-dom';
 
 
 
