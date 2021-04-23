@@ -1,11 +1,13 @@
 {
-  "name": "e-commercy",
+  "name": "e-commerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+    "firebase": "^8.4.1",
+    "latest-version": "^5.1.0",
     "node-sass": "^4.14.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -53,13 +55,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WiktoriaAgarkowa/e-commercy.git"
+    "url": "git+https://github.com/WiktoriaAgarkowa/e-commerce.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WiktoriaAgarkowa/e-commercy/issues"
+    "url": "https://github.com/WiktoriaAgarkowa/e-commerce/issues"
   },
-  "homepage": "https://github.com/WiktoriaAgarkowa/e-commercy#readme",
+  "homepage": "https://github.com/WiktoriaAgarkowa/e-commerce#readme",
   "description": ""
 }
